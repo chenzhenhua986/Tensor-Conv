@@ -1,5 +1,5 @@
 from torchsummary import summary
-from cifar_net import TCNN, TCNN1, TCNN2, TCNN3, TCNN3_1, TCNN3_2, TCNN4, TCNN5, TCNN8, TCNN13, TCNN14, TCNN15, TCNN16
+from cifar_net import TCNN3_2
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

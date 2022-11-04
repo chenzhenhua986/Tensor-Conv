@@ -7,4 +7,4 @@ The result on CIFAR10            |  The result on CIFAR100
 
 The result on CIFAR10    |       
 :-------------------------:
-![](cifar10_tcnn.png) |
+![](tiny_tcnn.png) |

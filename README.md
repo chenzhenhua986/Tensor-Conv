@@ -10,6 +10,6 @@ The result on Tiny ImageNet    |
 ![](tiny_tcnn.png) |
 
 Also, TCNNs show higher robustness compared to normal ConvNets, 
-The result on CIFAR10    |       
+TCNN vs CNNs    |       
 :-------------------------:
-![](tiny_tcnn.png) |
+![](adv_CNN.png) |

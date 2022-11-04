@@ -4,3 +4,7 @@ Tensor-based Convolutions show higher efficiency than current popular netwroks l
 The result on CIFAR10            |  The result on CIFAR100
 :-------------------------:|:-------------------------:
 ![](cifar10_tcnn.png)  |  ![](cifar100_tcnn.png)
+
+The result on CIFAR10           
+:-------------------------:
+![](cifar10_tcnn.png) 
